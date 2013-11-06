@@ -1,1 +1,14 @@
-vendor/cookbooks
+# Bundler
+/.bundle/
+/bin/
+/bundle/
+/vendor/gems/
+
+# Berkshelf
+/.kitchen/
+/vendor/cookbooks/
+
+# Vagrant
+/.vagrant/
+chef.json
+
